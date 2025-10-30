@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 12bb09063305e4341a057cc67f224d22
+timeCreated: 1554201963
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156647
+  packageName: Ground terrain tundra PBR pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Tundra texture pack 1/scripts/FlyCamera.cs
+  uploadId: 336651
